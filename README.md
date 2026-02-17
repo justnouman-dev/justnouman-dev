@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi 👋 I'm Nouman
 
-<!--
-**justnouman-dev/justnouman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Beginner Developer | 🚀 Building & Learning | 🎓 Student
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🌱 Currently learning programming & development
+- 🧠 Interested in real-world projects and problem solving
+- 🚀 Building practical applications to improve my skills
+- 🎯 Goal: Becoming a professional software developer
+
+---
+
+## 🛠️ Technologies I'm Learning
+
+- C Programming
+- Python
+- Java (Basics)
+- HTML, CSS, JavaScript
+- React
+- Node.js
+
+---
+
+## 🚀 Featured Project
+
+### Anonymous Room-Based Real-Time Collaboration Platform
+
+A lightweight collaboration system where users can join rooms anonymously, exchange messages, and share code snippets in real time.
+
+**Key Concepts Practiced:**
+
+✔ Real-time communication (Socket.io)
+✔ Room management logic
+✔ Input validation & limits
+✔ React component architecture
+✔ Backend–Frontend integration
+
+👉 https://github.com/justnouman-dev/COLLABROOM-2026
+
+---
+
+## 📌 What I'm Working On
+
+- Improving UI / Dashboard design
+- Learning advanced React concepts
+- Exploring backend architecture
+- Building more portfolio projects
+
+---
+
+⭐ Thanks for visiting my profile!
